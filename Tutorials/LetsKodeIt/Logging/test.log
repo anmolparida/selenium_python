@@ -1,0 +1,9 @@
+07-19-20 02:41:14 AM : INFO : info
+07-19-20 02:41:14 AM : WARNING : warning
+07-19-20 02:41:14 AM : ERROR : error
+INFO:root:info message
+WARNING:root:warning message
+ERROR:root:error message
+INFO:root:info message
+WARNING:root:warning message
+ERROR:root:error message
