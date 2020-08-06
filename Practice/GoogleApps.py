@@ -1,17 +1,15 @@
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.keys import Keys
-
-from Blaize.GoogleSearch import webdriver
-
 import time
 
+# from Selenium_Python.Drivers.DriverPath import driverLocation
 
+browserName = 'Chrome'
+driverLocation_chrome = "C:/Users/aparida/OneDrive/Code/Selenium/Selenium_Python/Drivers/chromedriver.exe"
 
-driverLocation_windows = "C:/Users/aparida/OneDrive/Code/Selenium_Python/Drivers/chromedriver83_win32.exe"
-
-driver = webdriver.Chrome(driverLocation_windows)
-
+driver = webdriver.Chrome(driverLocation_chrome)
+# driver = webdriver.Chrome(driverLocation(browserName))
 baseURL = 'https://www.google.com'
 
 driver.get(baseURL)
@@ -56,7 +54,7 @@ for apps in element_apps:
 f.close()
 
 
-#Highlight the contents of the iframe
+# Highlight the contents of the iframe
 driver.find_element_by_tag_name('a').send_keys(Keys.CONTROL, 'a')
 time.sleep(2)
 

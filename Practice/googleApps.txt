@@ -13,15 +13,14 @@
 13. Photos
 14. Duo
 15. Shopping
-16. Finance
-17. Docs
-18. Sheets
-19. Slides
-20. Books
-21. Blogger
-22. Hangouts
-23. Keep
-24. Jamboard
-25. Earth
-26. Collections
-27. Arts and Culture
+16. Docs
+17. Sheets
+18. Slides
+19. Books
+20. Blogger
+21. Hangouts
+22. Keep
+23. Jamboard
+24. Earth
+25. Collections
+26. Arts and Culture

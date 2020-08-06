@@ -25,7 +25,7 @@ def organizeDirectory():
 
         filepath = Path(item)
 
-        filetype = filepath.suffix.lower() # .suffix returns the file extension
+        filetype = filepath.suffix.lower()  # .suffix returns the file extension
         directory = pickDirectory(filetype)
         directoryPath = Path(directory)
 

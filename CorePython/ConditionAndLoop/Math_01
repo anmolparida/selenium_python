@@ -1,0 +1,18 @@
+#  Write a Python program to find those numbers which are divisible by 7 and multiple of 5, between 1500 and 2700
+
+
+# Printing as a List
+out_list = []
+for val in range(1500, 2700):
+    if val % 7 == 0 and val % 5 == 0:
+        out_list.append(val)
+
+print(out_list)
+
+
+# Printing as Joined Strings
+out_list = []
+for val in range(1500, 2700):
+    if val % 7 == 0 and val % 5 == 0:
+        out_list.append(str(val))
+print(', '.join(out_list))
