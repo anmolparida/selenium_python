@@ -13,7 +13,7 @@ def count_even_odd(vInput):
     count_odd = 0
     count_even = 0
     for number in vInput:
-        if number%2 == 0:
+        if number % 2 == 0:
             count_even = count_even + 1
         else:
             count_odd = count_odd + 1

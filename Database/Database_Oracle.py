@@ -18,7 +18,7 @@ conn = cx_Oracle.connect(user=r'bcc', password='guesses', dsn=dsn_tns, encoding=
 
 
 cur = conn.cursor()
-QUERY_INSERT = "insert into student values (102, 'John')"
+# QUERY_INSERT = "insert into student values (102, 'John')"
 QUERY_SELECT = "select * from agency where age_code = 'AGAP01'"
 
 cur.execute(QUERY_SELECT)

@@ -8,9 +8,9 @@ import json
 
 baseURL = 'https://api.upcitemdb.com/prod/trial/lookup?'
 
-parameters = {'upc': '885909950805'} # barCode input
+parameters = {'upc': '885909950805'}  # barCode input
 
-response = requests.get(baseURL, params = parameters)
+response = requests.get(baseURL, params=parameters)
 
 # print(response.url)
 
