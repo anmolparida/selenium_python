@@ -10,8 +10,8 @@ class SwitchToWindow():
     def test(self):
         baseUrl = "https://letskodeit.teachable.com/pages/practice"
 
-        driverLocation_windows = "C:\\Users\\aparida\\OneDrive\\Code\\Selenium_Python\\chromedriver.exe"
-        driverLocation_mac = "anmolparida/OneDrive/Code/Selenium_Python/chromedriver.exe"
+        driverLocation_windows = "C:\\Users\\aparida\\OneDrive\\Code\\Selenium\\chromedriver.exe"
+        driverLocation_mac = "anmolparida/OneDrive/Code/Selenium/chromedriver.exe"
 
         # Update based on the System you are using
         driverLocation = driverLocation_windows

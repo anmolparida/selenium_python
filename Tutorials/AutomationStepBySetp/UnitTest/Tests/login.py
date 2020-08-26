@@ -5,7 +5,7 @@ import sys
 import os
 
 
-driverLocation_windows = "C:/Users/aparida/OneDrive/Code/Selenium_Python/Drivers/chromedriver.exe"
+driverLocation_windows = "C:/Users/aparida/OneDrive/Code/Selenium/Drivers/chromedriver.exe"
 
 
 sys.path.append(os.path.join(os.path.dirname(__file__), "..", ".."))
@@ -18,7 +18,7 @@ class LoginTest(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
 
-        driverLocation_windows = "C:/Users/aparida/OneDrive/Code/Selenium_Python/Drivers/chromedriver.exe"
+        driverLocation_windows = "C:/Users/aparida/OneDrive/Code/Selenium/Drivers/chromedriver.exe"
         cls.driver = webdriver.Chrome(driverLocation_windows)
         cls.driver.implicitly_wait(10)
         cls.driver.maximize_window()

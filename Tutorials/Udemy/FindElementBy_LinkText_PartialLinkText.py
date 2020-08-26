@@ -8,7 +8,7 @@ class FindElementBy:
 
     def testFindElement(self):
 
-        driverLocation_windows = "C:\\Users\\aparida\\OneDrive\\Code\\Selenium_Python\\chromedriver.exe"
+        driverLocation_windows = "C:\\Users\\aparida\\OneDrive\\Code\\Selenium\\chromedriver.exe"
         driverLocation_mac = "anmolparida\OneDrive\Code\Selenium_Python\chromedriver.exe"
 
         # Update based on the System you are using

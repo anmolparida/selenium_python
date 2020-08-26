@@ -11,7 +11,7 @@ from AutomationStepBySetp.PyTest.Pages.loginPage import LoginPage
 
 def test_setup():
     global driver
-    driverLocation_windows = "C:/Users/aparida/OneDrive/Code/Selenium_Python/Drivers/chromedriver.exe"
+    driverLocation_windows = "C:/Users/aparida/OneDrive/Code/Selenium/Drivers/chromedriver.exe"
     driver = webdriver.Chrome(driverLocation_windows)
     driver.implicitly_wait(10)
     driver.maximize_window()

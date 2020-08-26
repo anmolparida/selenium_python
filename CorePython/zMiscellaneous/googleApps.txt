@@ -1,0 +1,26 @@
+1. Account
+2. Search
+3. Maps
+4. YouTube
+5. Play
+6. News
+7. Gmail
+8. Meet
+9. Contacts
+10. Drive
+11. Calendar
+12. Translate
+13. Photos
+14. Duo
+15. Shopping
+16. Docs
+17. Sheets
+18. Slides
+19. Books
+20. Blogger
+21. Hangouts
+22. Keep
+23. Jamboard
+24. Earth
+25. Collections
+26. Arts and Culture

@@ -9,7 +9,7 @@ class SeleniumFramework:
 
         def newTest(self):
 
-            driverLocation = "C:\\Users\\aparida\\OneDrive\\Code\\Selenium_Python\\chromedriver.exe"
+            driverLocation = "C:\\Users\\aparida\\OneDrive\\Code\\Selenium\\chromedriver.exe"
 
             os.environ["webdrive.chrome.driver"] = driverLocation
             driver = webdriver.Chrome(driverLocation)

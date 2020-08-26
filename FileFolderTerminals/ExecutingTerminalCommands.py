@@ -1,6 +1,6 @@
 import subprocess
 
-winFilePath = "C:\\Users\\aparida\\OneDrive\\Code\\Selenium_Python\\FileFolderTerminals\\"
+winFilePath = "C:\\Users\\aparida\\OneDrive\\Code\\Selenium\\FileFolderTerminals\\"
 
 # Specific to Mac
 
