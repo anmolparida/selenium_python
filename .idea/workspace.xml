@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be5f0705-b3a3-4554-9e95-c1101a51c9fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CorePython/DataTypes/Dictionary/SortingDictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/DataTypes/List/ASCII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/DataTypes/List/CaesarEncryption.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/DataTypes/List/JumbledWords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/DataTypes/List/ListMethods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/DataTypes/List/Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/DataTypes/List/Sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/DataTypes/List/WordTranformationLadder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/DataTypes/List/WordsInListFromListOfChars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/DataTypes/Numbers/BitwiseOperators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/FlowControl/AssignmentOperators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/FlowControl/DataTypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/FlowControl/Statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/FlowControl/TypeConversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/FlowControl/VariablesAndLiterals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/FlowControl/constant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/Functions/LambdaFunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/GlobalVariable/Modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/GlobalVariable/Package.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/GlobalVariable/ScopeOfVariable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/GlobalVariable/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/GlobalVariable/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/GlobalVariable/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/GlobalVariable/update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/OOPS/ClassConstructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/OOPS/ClassObjectMethod_revision_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/OOPS/Encapsulation_revision_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/OOPS/Inheritance_revision_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/OOPS/MultilevelInheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/OOPS/Polymorphism_revision_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileHandling/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frameworks/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zMiscellaneous/15Jul2020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zMiscellaneous/GeeksForGeeks_VMware/LongestCommonSubsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zMiscellaneous/GeeksForGeeks_VMware/MaxiumumIndex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zMiscellaneous/GeeksForGeeks_VMware/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zMiscellaneous/Interview_Qentelli_Round_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zMiscellaneous/Interview_Questions_Python/CommonElementInList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zMiscellaneous/Interview_Questions_Python/Comprehension_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zMiscellaneous/Interview_Questions_Python/Fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zMiscellaneous/Interview_Questions_Python/stringOperations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zMiscellaneous/Interview_Questions_Python/uniqueList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zMiscellaneous/PopularWebsites/MakeMyTrip/Locators/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zMiscellaneous/PopularWebsites/MakeMyTrip/Pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zMiscellaneous/PopularWebsites/MakeMyTrip/Tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zMiscellaneous/PopularWebsites/MakeMyTrip/Wrappers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zMiscellaneous/PopularWebsites/MakeMyTrip/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zMiscellaneous/PopularWebsites/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zMiscellaneous/WebScraping/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zMiscellaneous/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/__init__-apple’s MacBook Air.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/DataTypes/Dictionary/DictionaryMethods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/ConditionAndLoop/CountDigitLetter.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/FlowControl/CountDigitLetter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/ConditionAndLoop/CountEvenOdd.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/FlowControl/CountEvenOdd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/ConditionAndLoop/Fibonaci Series.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/FlowControl/Fibonaci Series.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/ConditionAndLoop/GuessTheNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/FlowControl/GuessTheNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/ConditionAndLoop/Math_01" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/FlowControl/Math_01" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/ConditionAndLoop/MultidimensionalList_Print.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/FlowControl/MultidimensionalList_Print.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/ConditionAndLoop/MutidimensionalList_Create.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/FlowControl/MutidimensionalList_Create.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/ConditionAndLoop/PasswordValidation.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/FlowControl/PasswordValidation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/ConditionAndLoop/Pattern_Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/FlowControl/Pattern_Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/ConditionAndLoop/Pattern_Stars.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/FlowControl/Pattern_Stars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/ConditionAndLoop/Triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/FlowControl/Triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/ConditionAndLoop/__init__-apple’s MacBook Air.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/DataTypes/List/Copy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/ConditionAndLoop/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/DataTypes/Dictionary/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/DataStructure/Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/DataTypes/List/CharacterFrequency.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/DataStructure/String/CaesarEncryption.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/DataStructure/String/HTML_Tag" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/DataTypes/List/HTML_Tag.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/DataStructure/String/LongestWord.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/DataTypes/List/LongestWord.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/DataStructure/String/RemoveNthCharacter.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/DataTypes/List/RemoveNthCharacter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/DataStructure/String/ResverseString.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/DataTypes/List/ResverseString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/DataStructure/String/RevertWordInSentence.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/DataTypes/List/RevertWordInSentence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/DataStructure/String/RotateString.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/DataTypes/List/RotateString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/DataStructure/String/UniqueWord.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/DataTypes/List/UniqueWord.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/DataStructure/String/__init__-apple’s MacBook Air.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/DataTypes/Numbers/Decimal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/DataStructure/String/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/DataTypes/List/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/DataStructure/__init__-apple’s MacBook Air.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/DataTypes/Numbers/Fractions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/DataStructure/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/DataTypes/Numbers/Math.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/DataStructure/ds_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/FlowControl/ds_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/OOPS/ClassObjectMethod.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/OOPS/ClassObjectMethod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/OOPS/Inheritance_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/OOPS/Inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/OOPS/Inheritance_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/OOPS/Inheritance_revision_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/OOPS/__init__-apple’s MacBook Air.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/DataTypes/Numbers/Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/15Jul2020.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/FlowControl/BreakContinue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/CP-SAT/CP-SAT-Learning-objective-v1.31-PYTHON.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/zMiscellaneous/CP-SAT/CP-SAT-Learning-objective-v1.31-PYTHON.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/CP-SAT/CP-SAT-Python-Mock-Exam-Set1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/zMiscellaneous/CP-SAT/CP-SAT-Python-Mock-Exam-Set1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/CP-SAT/CP-SAT-Python-Mock-Exam-Set2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/zMiscellaneous/CP-SAT/CP-SAT-Python-Mock-Exam-Set2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/CP-SAT/CP-SAT-Python-Mock-Exam-Set3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/zMiscellaneous/CP-SAT/CP-SAT-Python-Mock-Exam-Set3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/GoogleApps.py" beforeDir="false" afterPath="$PROJECT_DIR$/zMiscellaneous/GoogleApps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/GoogleSearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/zMiscellaneous/GoogleSearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/Interview_Qentelli_Round_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/zMiscellaneous/Interview_Qentelli_Round_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/Interview_Qentelli_Round_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/FlowControl/while_else.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/Interview_Qualys_Round_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/zMiscellaneous/Interview_Qualys_Round_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/Interview_Qualys_Round_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/zMiscellaneous/Interview_Qualys_Round_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/Interview_Qualys_Round_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/zMiscellaneous/Interview_Qualys_Round_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/PopularWebsites/MakeMyTrip/Locators/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/DataTypes/Numbers/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/PopularWebsites/MakeMyTrip/Locators/makeMyTrip_locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/zMiscellaneous/PopularWebsites/MakeMyTrip/Locators/makeMyTrip_locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/PopularWebsites/MakeMyTrip/Pages/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/DataTypes/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/PopularWebsites/MakeMyTrip/Pages/makeMyTrip_HomePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/zMiscellaneous/PopularWebsites/MakeMyTrip/Pages/makeMyTrip_HomePage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/PopularWebsites/MakeMyTrip/Tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/FlowControl/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/PopularWebsites/MakeMyTrip/Tests/makeMyTrip_Home.py" beforeDir="false" afterPath="$PROJECT_DIR$/zMiscellaneous/PopularWebsites/MakeMyTrip/Tests/makeMyTrip_Home.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/PopularWebsites/MakeMyTrip/Wrappers/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/Functions/ArgsKwargs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/PopularWebsites/MakeMyTrip/Wrappers/wrappers.py" beforeDir="false" afterPath="$PROJECT_DIR$/zMiscellaneous/PopularWebsites/MakeMyTrip/Wrappers/wrappers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/PopularWebsites/MakeMyTrip/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/Functions/FunctionArguments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/PopularWebsites/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/Functions/MethodOverloading.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/Pubmatic.py" beforeDir="false" afterPath="$PROJECT_DIR$/zMiscellaneous/Pubmatic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/Pubmatic2.py" beforeDir="false" afterPath="$PROJECT_DIR$/zMiscellaneous/Pubmatic2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/WebScraping/BeautifulSoup.py" beforeDir="false" afterPath="$PROJECT_DIR$/zMiscellaneous/WebScraping/BeautifulSoup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/WebScraping/Pali.py" beforeDir="false" afterPath="$PROJECT_DIR$/zMiscellaneous/WebScraping/Pali.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/WebScraping/ScrapingEcommerce.py" beforeDir="false" afterPath="$PROJECT_DIR$/zMiscellaneous/WebScraping/ScrapingEcommerce.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/WebScraping/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/Functions/Recusrsion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/Functions/ScopeOfFunction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/googleApps.txt" beforeDir="false" afterPath="$PROJECT_DIR$/zMiscellaneous/googleApps.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/new_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/zMiscellaneous/new_file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/new_file2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/zMiscellaneous/new_file2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/zMiscellaneous/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/zMiscellaneous/test_page_text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/zMiscellaneous/test_page_text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileFolderTerminals/Example.py" beforeDir="false" afterPath="$PROJECT_DIR$/FileHandling/Example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileFolderTerminals/ExecutingTerminalCommands.py" beforeDir="false" afterPath="$PROJECT_DIR$/FileHandling/ExecutingTerminalCommands.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileFolderTerminals/OrganisingDirectories.py" beforeDir="false" afterPath="$PROJECT_DIR$/FileHandling/OrganisingDirectories.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileFolderTerminals/ReadWriteFiles.py" beforeDir="false" afterPath="$PROJECT_DIR$/FileHandling/ReadWriteFiles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileFolderTerminals/__init__-apple’s MacBook Air.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/FlowControl/__init__-apple’s MacBook Air.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileFolderTerminals/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/Functions/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RobotFramework/Results/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frameworks/RobotFrameworks/Results/log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RobotFramework/Results/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Frameworks/RobotFrameworks/Results/output.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RobotFramework/Results/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frameworks/RobotFrameworks/Results/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RobotFramework/Tests/ChromeDriver.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Frameworks/RobotFrameworks/Tests/ChromeDriver.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RobotFramework/Tests/GoogleSearch.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Frameworks/RobotFrameworks/Tests/GoogleSearch.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RobotFramework/Tests/eBaySearch.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Frameworks/RobotFrameworks/Tests/eBaySearch.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RobotFramework/Tests/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frameworks/RobotFrameworks/Tests/log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RobotFramework/Tests/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Frameworks/RobotFrameworks/Tests/output.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RobotFramework/Tests/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frameworks/RobotFrameworks/Tests/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorials/Udemy/6-util.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorials/Udemy/6-util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorials/Udemy/7-util.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorials/Udemy/7-util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zMiscellaneous/Interview_Questions_Python/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/zMiscellaneous/Interview_Questions_Python/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zMiscellaneous/Interview_Questions_Python/Test.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1geSGY2PqIJl44WbVajFhi9n7k3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CorePython/GlobalVariable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CorePython/GlobalVariable" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CorePython/DataTypes/Numbers" />
+      <recent name="$PROJECT_DIR$/CorePython/FlowControl" />
+      <recent name="$PROJECT_DIR$/CorePython/GlobalVariable" />
+      <recent name="$PROJECT_DIR$/CorePython/DataStructure/String" />
+      <recent name="$PROJECT_DIR$/CorePython/DataStructure" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.MaxiumumIndex">
+    <configuration name="ArgsKwargs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CorePython/Functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CorePython/Functions/ArgsKwargs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ClassConstructor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CorePython/OOPS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CorePython/OOPS/ClassConstructor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LongestCommonSubsequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zMiscellaneous/GeeksForGeeks_VMware" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zMiscellaneous/GeeksForGeeks_VMware/LongestCommonSubsequence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MaxiumumIndex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zMiscellaneous/GeeksForGeeks_VMware" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zMiscellaneous/GeeksForGeeks_VMware/MaxiumumIndex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MultilevelInheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CorePython/OOPS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CorePython/OOPS/MultilevelInheritance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MaxiumumIndex" />
+        <item itemvalue="Python.LongestCommonSubsequence" />
+        <item itemvalue="Python.MultilevelInheritance" />
+        <item itemvalue="Python.ClassConstructor" />
+        <item itemvalue="Python.ArgsKwargs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be5f0705-b3a3-4554-9e95-c1101a51c9fd" name="Default Changelist" comment="" />
+      <created>1598473469166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598473469166</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="426" y="65" key="#Dictionary" timestamp="1598607740101">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="426" y="65" key="#Dictionary/0.0.1440.900@0.0.1440.900" timestamp="1598607740101" />
+    <state x="354" y="135" key="#Inspections" timestamp="1598608161595">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="354" y="135" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1598608161595" />
+    <state x="83" y="26" key="CommitChangelistDialog2" timestamp="1598720527172">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="83" y="26" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1598720527172" />
+    <state width="1398" height="266" key="GridCell.Tab.0.bottom" timestamp="1598741094091">
+      <screen x="0" y="0" width="1440" height="855" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.0.bottom/0.0.1440.855@0.0.1440.855" timestamp="1598741094091" />
+    <state width="857" height="311" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598732041666" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598529063416" />
+    <state width="1398" height="266" key="GridCell.Tab.0.center" timestamp="1598741094090">
+      <screen x="0" y="0" width="1440" height="855" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.0.center/0.0.1440.855@0.0.1440.855" timestamp="1598741094090" />
+    <state width="857" height="311" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598732041664" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598529063416" />
+    <state width="1398" height="266" key="GridCell.Tab.0.left" timestamp="1598741094089">
+      <screen x="0" y="0" width="1440" height="855" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.0.left/0.0.1440.855@0.0.1440.855" timestamp="1598741094089" />
+    <state width="857" height="311" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598732041663" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598529063416" />
+    <state width="1398" height="266" key="GridCell.Tab.0.right" timestamp="1598741094090">
+      <screen x="0" y="0" width="1440" height="855" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.0.right/0.0.1440.855@0.0.1440.855" timestamp="1598741094090" />
+    <state width="857" height="311" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598732041665" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598529063416" />
+    <state width="1398" height="266" key="GridCell.Tab.1.bottom" timestamp="1598741094092">
+      <screen x="0" y="0" width="1440" height="855" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.bottom/0.0.1440.855@0.0.1440.855" timestamp="1598741094092" />
+    <state width="857" height="311" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598732042183" />
+    <state width="1398" height="266" key="GridCell.Tab.1.center" timestamp="1598741094091">
+      <screen x="0" y="0" width="1440" height="855" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.center/0.0.1440.855@0.0.1440.855" timestamp="1598741094091" />
+    <state width="857" height="311" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1598732042182" />
+    <state width="1398" height="266" key="GridCell.Tab.1.left" timestamp="1598741094091">
+      <screen x="0" y="0" width="1440" height="855" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.left/0.0.1440.855@0.0.1440.855" timestamp="1598741094091" />
+    <state width="857" height="311" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1598732042181" />
+    <state width="1398" height="266" key="GridCell.Tab.1.right" timestamp="1598741094092">
+      <screen x="0" y="0" width="1440" height="855" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.right/0.0.1440.855@0.0.1440.855" timestamp="1598741094092" />
+    <state width="857" height="311" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1598732042183" />
+    <state x="346" y="133" key="SettingsEditor" timestamp="1598609751446">
+      <screen x="0" y="0" width="1440" height="855" />
+    </state>
+    <state x="346" y="133" key="SettingsEditor/0.0.1440.855@0.0.1440.855" timestamp="1598609751446" />
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598529021470" />
+    <state x="427" y="161" width="586" height="577" key="find.popup" timestamp="1598683247800">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="427" y="153" width="586" height="548" key="find.popup/0.0.1440.855@0.0.1440.855" timestamp="1598612379298" />
+    <state x="427" y="161" width="586" height="577" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1598683247800" />
+    <state x="567" y="225" key="refactoring.ChangeSignatureDialog" timestamp="1598727852355">
+      <screen x="0" y="0" width="1440" height="855" />
+    </state>
+    <state x="567" y="225" key="refactoring.ChangeSignatureDialog/0.0.1440.855@0.0.1440.855" timestamp="1598727852355" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1598634910598">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1598634910598" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CorePython/FlowControl/while_else.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CorePython/OOPS/Polymorphism_revision_1.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -2,11 +2,11 @@
 
 https://www.programiz.com/python-programming/object-oriented-programming
 
-Object has 2 charaxterstics : attribute and behavious
+Object has 2 characteristics : attribute and behaviour
 Parrot attributes: name, age, color
-Parrot behavious : singing and dancing
+Parrot behaviour : singing and dancing
 
-clas has all the attributes of the parrot
+class has all the attributes of the parrot
 
 # from class we construct instances
 # Instance is a specific object created from a specific class
