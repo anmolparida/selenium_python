@@ -10,3 +10,6 @@ print(type([1, 2, 3]))
 print(type({1, 2, 3}))
 print(type((1, 2, 3)))
 
+
+inputStr = 'hello world'
+print(list(map(str, inputStr.strip().split())))

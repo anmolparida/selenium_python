@@ -1,0 +1,28 @@
+"""
+JSON
+
+- Java Script object Notation
+- used for storing and exchanging data
+- data is stored in key value pair
+- value can have further key, value pair - nested key value
+
+"""
+
+{
+    "Name"  : "Anmol Parida",
+     "Age"  : 31,
+     "Phone Number" : "9999988888",
+     "City" : ["Pune", "Bangalore", "Hyderabad"],
+     "Adress"   :
+        {
+            "Soceity" : "Sanskruti Homes",
+            "Flat No"   : "H7",
+            "Area"      : "Balewadi",
+            "Contact"   :
+            {
+                "Mobile" : "21212121",
+                "Landline" : 656565656"
+            }
+
+        }
+}
